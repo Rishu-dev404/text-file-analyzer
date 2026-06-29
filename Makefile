@@ -2,7 +2,7 @@ CC = gcc
 
 CFLAGS = -Wall -g
 
-TARGET = check
+TARGET = analyze
 
 SOURCES = main.c
 
